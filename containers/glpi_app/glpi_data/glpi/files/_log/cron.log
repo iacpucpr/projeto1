@@ -1,0 +1,24 @@
+2024-07-23 03:37:27 [@glpi]
+Interno #1: Executar contract
+2024-07-23 03:38:02 [@glpi]
+Externo #1: Executar PurgeLogs
+2024-07-23 03:38:02 [@glpi]
+Externo #2: Executar checkAllUpdates
+2024-07-23 03:38:02 [@glpi]
+Externo #3: Executar DomainsAlert
+2024-07-23 03:38:02 [@glpi]
+Externo #4: Executar cleanorphans
+2024-07-23 03:38:02 [@glpi]
+Externo #5: Executar pendingreason_autobump_autosolve
+2024-07-23 03:40:01 [@glpi]
+Externo #1: Executar Cleanoldagents
+2024-07-23 03:42:01 [@glpi]
+Externo #1: Nada a ser executado
+2024-07-23 03:44:01 [@glpi]
+Externo #1: Nada a ser executado
+2024-07-23 03:46:01 [@glpi]
+Externo #1: Nada a ser executado
+2024-07-23 03:48:01 [@glpi]
+Externo #1: Nada a ser executado
+2024-07-23 03:50:01 [@glpi]
+Externo #1: Nada a ser executado
